@@ -1,0 +1,7 @@
+C:\Users\laris\OneDrive\Área de Trabalho\Planta-Larissah-1703323\Planta-Larissah-1703323\bin\Debug\Planta-Larissah-1703323.exe.config
+C:\Users\laris\OneDrive\Área de Trabalho\Planta-Larissah-1703323\Planta-Larissah-1703323\bin\Debug\Planta-Larissah-1703323.exe
+C:\Users\laris\OneDrive\Área de Trabalho\Planta-Larissah-1703323\Planta-Larissah-1703323\bin\Debug\Planta-Larissah-1703323.pdb
+C:\Users\laris\OneDrive\Área de Trabalho\Planta-Larissah-1703323\Planta-Larissah-1703323\obj\Debug\Planta-Larissah-1703323.csprojAssemblyReference.cache
+C:\Users\laris\OneDrive\Área de Trabalho\Planta-Larissah-1703323\Planta-Larissah-1703323\obj\Debug\Planta-Larissah-1703323.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Área de Trabalho\Planta-Larissah-1703323\Planta-Larissah-1703323\obj\Debug\Planta-Larissah-1703323.exe
+C:\Users\laris\OneDrive\Área de Trabalho\Planta-Larissah-1703323\Planta-Larissah-1703323\obj\Debug\Planta-Larissah-1703323.pdb
